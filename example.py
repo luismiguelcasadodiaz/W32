@@ -1,6 +1,6 @@
 def git_operation():
-    print(" i am adding example.py")
+    print("I AM ADDING EXAMPLE.PY")
 def test():
-    print("test")
+    print("TEST")
 git_operation()
 
